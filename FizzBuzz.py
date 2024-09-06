@@ -16,7 +16,7 @@ def FizzBuzz(num):
             print("Buzz")
         else:
             print(i)
-
+test 
 
 
 FizzBuzz(20)  # prints FizzBuzz up to 20
